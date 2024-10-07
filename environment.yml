@@ -1,4 +1,4 @@
-name: egm722_serenee
+name: code_master
 channels:
   - conda-forge
   - defaults
